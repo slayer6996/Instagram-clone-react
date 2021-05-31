@@ -7,8 +7,10 @@ body{
 }
 
 .appHeader{
+  display: flex;
   background-color: white;
   border-bottom: 1px solid lightgray;
+  justify-content: space-between;
   object-fit: contain;
   padding: 0.2rem;
 }

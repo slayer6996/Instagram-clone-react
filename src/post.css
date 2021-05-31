@@ -26,3 +26,22 @@
     font-weight: normal;
     padding: 0.3rem;
 }
+
+.commentBox{
+    display: flex;
+    margin: 0.2rem;
+}
+
+.commentInput{
+    flex:1;
+    padding: 0.3rem;
+    border: none;
+    border-top: 1px solid lightgray;
+}
+
+.commentButton{
+    flex: 0;
+    border: none;
+    border-top: 1px solid lightgray;
+    color: #6082a3;
+}
